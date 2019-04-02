@@ -1,6 +1,6 @@
 # Developer Roadmap :smile:
 
-## The Roadmap gives us details about a platform :heart:
+## The Roadmap gives us details about a platform 
 ---------------------------------------------------------------------------
 
 ## Road-Map with PlatForm :link:
